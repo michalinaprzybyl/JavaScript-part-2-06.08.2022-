@@ -1,5 +1,5 @@
 // Ćwiczenie 7: Pobierz od użytkownika 10 liczb, a następnie zapisz je w tablicy
-// i ułóż od największej do najmniejszej.
+// i wyświetl elementy tablicy od ostatniego do pierwszego.
 
 const tab = [];
 

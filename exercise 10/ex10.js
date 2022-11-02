@@ -6,7 +6,7 @@ const even = [];
 const odd = [];
 
 for (let i = 0; i < 10; i++) {
-    let a = parseInt(prompt("Podaj liczbę"));
+    let a = parseInt(prompt("Enter any number"));
     tab.push(a);
 }
 
